@@ -16,19 +16,19 @@ Lifetoon is a platform for comic creators to post their comics. We’re availabl
 <p float="left">
   <img src="https://i.ibb.co/JCgKBPZ/Screenshot-2019-11-13-23-58-11-504-com-lifetoon.png" width="200" height="350" alt="Login Screen"/>
 
-  <img src="https://i.ibb.co/pzg32YR/Screenshot-1570774068.png" width="200" height="350" alt="For you screen"/>
+  <img src="https://i.ibb.co/RYH2vQP/Screenshot-2019-11-13-23-56-04-387-com-lifetoon.png" width="200" height="350" alt="For you screen"/>
 
-  <img src="https://i.ibb.co/7vLbNdx/Screenshot-1570774080.png" width="200" height="350" alt="Detail Webtoon Screen"/>
+  <img src="https://i.ibb.co/TPMGR1G/Screenshot-2019-11-13-23-56-27-553-com-lifetoon.png" width="200" height="350" alt="Detail Webtoon Screen"/>
 
-  <img src="https://i.ibb.co/F8S7MPJ/Screenshot-1570774094.png" width="200" height="350" alt="Detail Episode Screen"/>
+  <img src="https://i.ibb.co/b2mvsHm/Screenshot-2019-11-13-23-56-54-503-com-lifetoon.png" width="200" height="350" alt="Detail Episode Screen"/>
 
-  <img src="https://i.ibb.co/q0LwBG8/Screenshot-1570774108.png" width="200" height="350" alt="My favorite screen"/>
+  <img src="https://i.ibb.co/8b4v95d/Screenshot-2019-11-13-23-57-08-090-com-lifetoon.png" width="200" height="350" alt="My favorite screen"/>
 
-  <img src="https://i.ibb.co/jg0W4c3/Screenshot-1570774116.png" width="200" height="350" alt="Profile Screen"/>
+  <img src="https://i.ibb.co/zF9FWgW/Screenshot-2019-11-13-23-57-26-556-com-lifetoon.png" width="200" height="350" alt="Profile Screen"/>
 
-  <img src="https://i.ibb.co/M6H3jJm/Screenshot-1570774122.png" width="200" height="350" alt="Edit Profile Screen"/>
+  <img src="https://i.ibb.co/cXk7bXW/Screenshot-2019-11-13-23-57-41-297-com-lifetoon.png" width="200" height="350" alt="Edit Profile Screen"/>
 
-  <img src="https://i.ibb.co/kqk1GrB/Screenshot-1570774131.png" width="200" height="350" alt="My Webtoon creation screen"/>
+  <img src="https://i.ibb.co/yqVxqC3/Screenshot-2019-11-13-23-58-02-518-com-lifetoon.png" width="200" height="350" alt="My Webtoon creation screen"/>
 
   <img src="https://i.ibb.co/JtMNv9F/Screenshot-1570778421.png" width="200" height="350" alt="Create Webtoon Screen"/>
 
