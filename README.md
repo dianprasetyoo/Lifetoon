@@ -30,13 +30,6 @@ Lifetoon is a platform for comic creators to post their comics. We’re availabl
 
   <img src="https://i.ibb.co/yqVxqC3/Screenshot-2019-11-13-23-58-02-518-com-lifetoon.png" width="200" height="350" alt="My Webtoon creation screen"/>
 
-  <img src="https://i.ibb.co/JtMNv9F/Screenshot-1570778421.png" width="200" height="350" alt="Create Webtoon Screen"/>
-
-  <img src="https://i.ibb.co/9yStjXj/Screenshot-1570778464.png" width="200" height="350" alt="Create Webtoon Episode Screen"/>
-
-<img src="https://i.ibb.co/4jH2B3Z/Screenshot-1570779044.png" width="200" height="350" alt="Edit/ Detail my webtoon screen"/>
-
-  <img src="https://i.ibb.co/q7FK11T/Screenshot-1570779109.png" width="200" height="350" alt="Edit/ Detail my webtoon Episode screen"/>
   
 </p>
 
@@ -65,8 +58,8 @@ Follow these step to install
 
 **Frontend:**
 ```
-$ git clone https://github.com/DumbWaysDotId/course-repo-example
-$ cd course-repo-example/frontend
+$ git clone https://github.com/dianprasetyoo/Lifetoon
+$ cd Lifetoon
 $ npm install
 $ react-native run-ios #for ios
 $ react-native run-android #for android
