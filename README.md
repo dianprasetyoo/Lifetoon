@@ -14,7 +14,7 @@ Lifetoon is a platform for comic creators to post their comics. We’re availabl
 ## Screenshots
 
 <p float="left">
-  <img src="https://ibb.co/G2BFxgS" width="200" height="350" alt="Login Screen"/>
+  <img src="https://i.ibb.co/JCgKBPZ/Screenshot-2019-11-13-23-58-11-504-com-lifetoon.png" width="200" height="350" alt="Login Screen"/>
 
   <img src="https://i.ibb.co/pzg32YR/Screenshot-1570774068.png" width="200" height="350" alt="For you screen"/>
 
