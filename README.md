@@ -43,7 +43,6 @@ Lifetoon is a platform for comic creators to post their comics. We’re availabl
 * Out of the box app of the year!
 * It's React Native, so it support android & iOS by default!
 * Simple Code, so you can easily contribute on it.
-* Meteor is one of the most starred javascript framework, and it is very easy to use
 
 ## Tech Stack
 * React Native for the Mobile Frontend
