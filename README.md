@@ -39,7 +39,7 @@ Lifetoon is a platform for comic creators to post their comics. We’re availabl
 * Free Create your comics
 * daily update
 
-## Why Webtoon?
+## Why Lifetoon?
 * Out of the box app of the year!
 * It's React Native, so it support android & iOS by default!
 * Simple Code, so you can easily contribute on it.
